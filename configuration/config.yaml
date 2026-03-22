@@ -1,8 +1,8 @@
 logger:
-  info_enabled: true
-  debug_enabled: true
-  error_enabled: true
-  warn_enabled: true
-  terminal_logs_enabled: true
-  file_logs_enabled: true
-  third_party_logs_enabled: true
+  info_enabled: false
+  debug_enabled: false
+  error_enabled: false
+  warn_enabled: false
+  terminal_logs_enabled: false
+  file_logs_enabled: false
+  third_party_logs_enabled: false
