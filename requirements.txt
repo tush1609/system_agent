@@ -1,0 +1,12 @@
+langchain-openai
+langchain-core
+langgraph
+pydantic
+dotenv
+langchain_google_genai
+chainlit
+openai
+chainlit>=1.2.0
+streamlit
+nest_asyncio
+structlog
